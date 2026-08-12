@@ -42,7 +42,7 @@ Nyutexaminerad mjukvaruutvecklare (Software Engineer) från Blekinge Tekniska H�
 
 ### 🚀 Featured Work
 
-**🎓 Bachelor's Thesis — User-Space Device Drivers on Embedded Linux: C vs Rust** *(Grade: A)*
+**🎓 [Bachelor's Thesis — User-Space Device Drivers on Embedded Linux: C vs Rust](https://github.com/SilasHofer/C-and-Rust-driver)** *(Grade: A)*
 Empirical comparison of two functionally equivalent user-space drivers for a BME280 sensor, implemented in C and Rust on a Raspberry Pi 3B. Evaluated 48-hour reliability stress testing, memory safety (Valgrind), fault injection (LD_PRELOAD + 12h AFL++ fuzzing), architectural complexity, and performance. Both implementations proved stable; Rust delivered more consistent error handling at the cost of slightly higher memory usage.
 `Rust` `C` `Embedded Linux` `I2C` `Fuzzing` `Statistical analysis (SPRT)` — [Read the thesis](https://urn.kb.se/resolve?urn=urn:nbn:se:bth-29775)
 
