@@ -10,7 +10,7 @@
 
 ### 🎯 About Me
 
-Nyutexaminerad mjukvaruutvecklare (Software Engineer) från Blekinge Tekniska Högskola with hands-on experience in **fullstack development, real-time systems, and AI-driven applications.**
+Recent Software Engineering graduate from Blekinge Tekniska Högskola with hands-on experience in **fullstack development, real-time systems, and AI-driven applications.**
 
 - 📍 Karlskrona, Sweden
 - 🎓 B.Sc. in Software Engineering, Blekinge Tekniska Högskola (Aug 2023 – Jun 2026)
