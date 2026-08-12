@@ -46,10 +46,6 @@ Nyutexaminerad mjukvaruutvecklare (Software Engineer) från Blekinge Tekniska H�
 Empirical comparison of two functionally equivalent user-space drivers for a BME280 sensor, implemented in C and Rust on a Raspberry Pi 3B. Evaluated 48-hour reliability stress testing, memory safety (Valgrind), fault injection (LD_PRELOAD + 12h AFL++ fuzzing), architectural complexity, and performance. Both implementations proved stable; Rust delivered more consistent error handling at the cost of slightly higher memory usage.
 `Rust` `C` `Embedded Linux` `I2C` `Fuzzing` `Statistical analysis (SPRT)` — [Read the thesis](https://urn.kb.se/resolve?urn=urn:nbn:se:bth-29775)
 
-**🏓 Real-Time Booking System — Softhouse**
-Web app for real-time table-tennis table booking, with an AI-powered camera that auto-detected table usage and updated status live. Included a Slack app for live-status viewing and challenges between users.
-`Python` `Raspberry Pi` `Computer vision` `Slack API` — *Built the core Python application and the real-time video-based detection system.*
-
 **🖥️ [Visual Control System — Connectitude](https://github.com/SilasHofer/connectitude-board)** 
 Fullstack web app powering large touchscreen displays for industrial meetings — configurable dashboard layouts, production-data widgets, and attendance tracking, integrated with Connectitude's API, running in Docker.
 `C#` `.NET Web API` `Entity Framework` `SQL` `Docker` — *Built the backend and the production-data widgets/API integrations.*
