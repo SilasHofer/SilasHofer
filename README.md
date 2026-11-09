@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Silas Hofer 👋</h1>
 <h3 align="center">Software Engineer — B.Sc. Software Engineering, Blekinge Tekniska Högskola</h3>
 
 <p align="center">
